@@ -50,42 +50,47 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react&perline=3" alt="React" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html&perline=3" alt="HTML5" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css&perline=3" alt="CSS3" width="40" height="40"/>
   &nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js&perline=3" alt="JavaScript" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux&perline=3" alt="Redux " width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=3" alt="NodeJS" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts&perline=3" alt="TypeScript" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=npm&perline=3" alt="npm" width="40" height="40"/>
   &nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github&perline=3" alt="GitHub" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma&perline=3" alt="Figma" width="40" height="40"/>
   &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel&perline=3" alt="Vercel" width="40" height="40"/>
   &nbsp;
 
+  <img src="https://skillicons.dev/icons?i=vscode&perline=3" alt="VSCode" width="40" height="40"/>
+  &nbsp;
+
+   <img src="https://skillicons.dev/icons?i=vite&perline=3" alt="Vite" width="40" height="40"/>
+  &nbsp;
 </div>
 <!--
 **Serhii-Briushyn/Serhii-Briushyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
