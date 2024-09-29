@@ -4,19 +4,19 @@
   </div>
 
   <div>
-    <a href="https://www.linkedin.com/in/serhii-briushyn/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/serhii-briushyn/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:serhii.briushyn@icloud.com" target="_blank" style="text-decoration: none;">
+    <a href="mailto:serhii.briushyn@icloud.com" target="_blank">
       <img src="https://img.shields.io/badge/iCloud Mail-%233693F3?style=plastic&logo=icloud&logoColor=white" alt="iCloud Mail"/>
     </a>
-    <a href="https://t.me/sbriushyn" target="_blank" style="text-decoration: none;">
+    <a href="https://t.me/sbriushyn" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="mailto:serhii.briushyn88@gmail.com" target="_blank" style="text-decoration: none;">
+    <a href="mailto:serhii.briushyn88@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-  </div>
+</div>
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=Serhii-Briushyn&style=plastic&color=blueviolet&abbreviated=true" alt="Profile views"/>
