@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,redux,nodejs,ts,npm,github,git,figma,vercel,vscode,vite&perline=8" alt="Skills icons"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,redux,nodejs,ts,npm,github,git,figma,vercel,vscode,vite" alt="Skills icons"/>
 </div>
 
 ---
