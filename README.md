@@ -1,35 +1,34 @@
-<div id="container" align="center">
+<div align="center"> 
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile GIF"/>
+  </div>
 
- <div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
-    <a href="https://www.linkedin.com/in/serhii-briushyn/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div>
+    <a href="https://www.linkedin.com/in/serhii-briushyn/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:serhii.briushyn@icloud.com">
-      <img src="https://img.shields.io/badge/iCloud Mail-%233693F3?style=plastic&logo=icloud&logoColor=white" alt="iCloud Mail Badge"/>
+    <a href="mailto:serhii.briushyn@icloud.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/iCloud Mail-%233693F3?style=plastic&logo=icloud&logoColor=white" alt="iCloud Mail"/>
     </a>
-    <a href="https://t.me/sbriushyn">
-      <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a href="https://t.me/sbriushyn" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="mailto:serhii.briushyn88@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a href="mailto:serhii.briushyn88@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
 
-  <div id="views-badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Serhii-Briushyn&style=plastic&color=blueviolet&abbreviated=true" alt=""/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Serhii-Briushyn&style=plastic&color=blueviolet&abbreviated=true" alt="Profile views"/>
   </div>
 
   <h1>
     Hi there, I'm Serhii
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
   </h1>
 
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"   width="600" height="300"/>
+  <div>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF"/>
   </div>
 </div>
 
@@ -37,72 +36,25 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer Icon"> from Ukraine.
 
-- :desktop_computer: I'm currently studying to become a Full Stack Developer, focusing on building web applications using modern technologies.
-- :bulb: Exploring advanced techniques in both frontend and backend development.
-- :books: In my free time, I work on projects, solve coding challenges, and expand my knowledge in software development.
-- :link: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/)
+- 💻 I'm currently studying to become a Full Stack Developer, focusing on building web applications using modern technologies.
+- 💡 Exploring advanced techniques in both frontend and backend development.
+- 📚 In my free time, I work on projects, solve coding challenges, and expand my knowledge in software development.
+- 🔗 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-
-  <img src="https://skillicons.dev/icons?i=react&perline=3" alt="React" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=html&perline=3" alt="HTML5" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=css&perline=3" alt="CSS3" width="40" height="40"/>
-  &nbsp;
-  
-  <img src="https://skillicons.dev/icons?i=js&perline=3" alt="JavaScript" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=redux&perline=3" alt="Redux " width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=nodejs&perline=3" alt="NodeJS" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=ts&perline=3" alt="TypeScript" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=npm&perline=3" alt="npm" width="40" height="40"/>
-  &nbsp;
-  
-  <img src="https://skillicons.dev/icons?i=github&perline=3" alt="GitHub" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=figma&perline=3" alt="Figma" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=vercel&perline=3" alt="Vercel" width="40" height="40"/>
-  &nbsp;
-
-  <img src="https://skillicons.dev/icons?i=vscode&perline=3" alt="VSCode" width="40" height="40"/>
-  &nbsp;
-
-   <img src="https://skillicons.dev/icons?i=vite&perline=3" alt="Vite" width="40" height="40"/>
-  &nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,redux,nodejs,ts,npm,github,git,figma,vercel,vscode,vite&perline=8" alt="Skills icons"/>
 </div>
-<!--
-**Serhii-Briushyn/Serhii-Briushyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Serhii-Briushyn&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serhii-Briushyn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
