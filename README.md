@@ -5,7 +5,10 @@
 
   <div>
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/) [![iCloudMail Badge](https://img.shields.io/badge/iCloudMail-%233693F3?style=plastic&logo=icloud&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/) [![Telegram Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/sbriushyn) [![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:serhii.briushyn88@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/) 
+[![iCloudMail Badge](https://img.shields.io/badge/iCloudMail-%233693F3?style=plastic&logo=icloud&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/) 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/sbriushyn) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:serhii.briushyn88@gmail.com)
 
   <div/>
 
