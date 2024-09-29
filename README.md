@@ -3,24 +3,8 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile GIF"/>
   </div>
 
-  <div>
-    <a href="https://www.linkedin.com/in/serhii-briushyn/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:serhii.briushyn@icloud.com" target="_blank">
-      <img src="https://img.shields.io/badge/iCloud Mail-%233693F3?style=plastic&logo=icloud&logoColor=white" alt="iCloud Mail"/>
-    </a>
-    <a href="https://t.me/sbriushyn" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="mailto:serhii.briushyn88@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-</div>
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Serhii-Briushyn&style=plastic&color=blueviolet&abbreviated=true" alt="Profile views"/>
-  </div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/) [![iCloudMail Badge](https://img.shields.io/badge/iCloudMail-%233693F3?style=plastic&logo=icloud&logoColor=white)](https://www.linkedin.com/in/serhii-briushyn/) [![Telegram Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/sbriushyn) [![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:serhii.briushyn88@gmail.com)
+![Views Badge](https://komarev.com/ghpvc/?username=Serhii-Briushyn&style=plastic&color=blueviolet&abbreviated=true)
 
   <h1>
     Hi there, I'm Serhii
@@ -47,9 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,redux,nodejs,ts,npm,github,git,figma,vercel,vscode,vite" alt="Skills icons"/>
-</div>
+[![Skills Icons](https://skillicons.dev/icons?i=react,html,css,js,redux,nodejs,ts,npm,github,git,figma,vercel,vscode,vite)](https://skillicons.dev)
 
 ---
 
