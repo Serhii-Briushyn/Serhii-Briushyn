@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer Icon"> from Ukraine.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer Icon"> from Slovakia.
 
 - 💻 I'm currently studying to become a Full Stack Developer, focusing on building web applications using modern technologies.
 - 💡 Exploring advanced techniques in both frontend and backend development.
